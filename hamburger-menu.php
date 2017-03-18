@@ -1,4 +1,4 @@
-<!-- hamburger toggle button -->
+<!-- hamburger toggle button by Jonathan Suh @https://github.com/jonsuh/hamburgers -->
 <div class="hmenu-wrapper">
 	<button id="hamburger-btn" class="hamburger hamburger--emphatic" type="button">
 	  <span class="hamburger-box">

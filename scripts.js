@@ -2,7 +2,7 @@
 	//hide navigation wrap
 	$(".mobile-navigation").hide();
 	
-	//var
+	//vars
 	var $hamburger = $(".hamburger");
 	$hamburger.on("click", function(e) {
 			$hamburger.toggleClass("is-active");

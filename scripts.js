@@ -18,7 +18,7 @@
 			}
 	});
 
-	//if mobile menu has submenu
+	//if mobile menu has submenus
 	$(".menu-item-has-children > a").on('click', function(e) {
 		e.preventDefault();
 		if( $(this).parent('.menu-item-has-children').hasClass('collapsed-mobile-submenu') ) {
